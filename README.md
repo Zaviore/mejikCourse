@@ -2,8 +2,8 @@
 
 ## Screenshots
 
-<img src="./src/images/screenshot.png" alt="kulina" width="700px"/>
-<img src="./src/images/screenshot (1).png" alt="kulina" width="700px"/>
+<img src="./images/screenshot.png" alt="mejik"/>
+<img src="./images/screenshot (1).png" alt="mejik2" width="700px"/>
 
 ## Author
 
