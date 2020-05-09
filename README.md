@@ -2,8 +2,8 @@
 
 ## Screenshots
 
-<img src="./images/screenshot.png" alt="mejik"/>
-<img src="./images/screenshot (1).png" alt="mejik2" width="700px"/>
+<img src="./screenshot.png" alt="mejik"/>
+<img src="./screenshot (1).png" alt="mejik2" width="700px"/>
 
 ## Author
 
