@@ -1,0 +1,89 @@
+/* body {
+  background-color: #8854d0 !important;
+} */
+.containers {
+  margin: 50px;
+}
+.warp {
+  padding: 100px;
+  background-color: #8854d0 !important;
+}
+.NVbar {
+  height: 50px;
+  box-shadow: 0.5px 0.5px 4px grey;
+  width: 100%;
+}
+.warping-1 {
+  margin: 0px 300px 0px 300px;
+}
+.input-container {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  padding: 2px;
+  width: 100%;
+}
+
+.icon {
+  padding: 2px;
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+.input-field {
+  width: 100%;
+  padding: 2px;
+  border: 1px solid grey;
+  border-radius: 4px;
+  outline: none;
+  background-color: #f0f2f5;
+  width: 400px;
+}
+
+.input-field:focus {
+  border: 1px solid #8854d0;
+}
+
+.btn-yellow {
+  background-color: #fac024 !important;
+  border-radius: 4px;
+  width: 100%;
+}
+.btn-prmry {
+  background-color: white !important;
+  border: 1px solid #8854d0 !important;
+  font-size: 13px !important;
+  color: #8854d0 !important;
+}
+.btn-prmry:hover {
+  background-color: #8854d0 !important;
+  font-size: 13px !important;
+  color: white !important;
+}
+.input-login {
+  background: #050505 !important;
+  opacity: 0.1;
+  border-radius: 4px;
+  color: white;
+}
+.navCourse {
+  color: #8854d0 !important;
+  width: 100px;
+  display: flex;
+}
+.navCourse p {
+  margin: 0px !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .warping-1 {
+    width: 100%;
+    color: white;
+    margin: 0px;
+  }
+
+  .input-field {
+    width: 200px;
+  }
+}
